@@ -12,7 +12,6 @@ This repository contains a Jupyter notebook (`main.ipynb`) that provides a learn
   - Data manipulation and useful examples for practice.
   - Step-by-step exercises or explanations.
 
-> ℹ A more detailed description can be added after reviewing the actual notebook cells.
 
 ---
 
